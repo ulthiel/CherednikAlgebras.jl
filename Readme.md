@@ -11,7 +11,7 @@ This package uses:
 
 ## Motivation
 
-I already have a larger Magma package [CHAMP](https://github.com/ulthiel/Champ) for rational Cherednik algebras. The motivation for this package is my observation that the arithmetic in Julia/OSCAR is faster than in Magma and I am able to solve some problems I have not been able to solve in Magma. This concerns especially the computation of Calogero–Moser cellular characters. So, a first milestone is to re-implement in Julia the algorithm for the computation is Calogero–Moser cellular characters. This is still under development.
+I already have a larger Magma package [CHAMP](https://github.com/ulthiel/Champ) for rational Cherednik algebras. The motivation for this package is my observation that the arithmetic in Julia/OSCAR is faster than in Magma and I am able to solve some problems I have not been able to solve in Magma. This concerns especially the computation of Calogero–Moser cellular characters. So, a first milestone is to re-implement in Julia the algorithm for the computation of Calogero–Moser cellular characters that is already in CHAMP. This is still under development.
 
 ## Installation
 
