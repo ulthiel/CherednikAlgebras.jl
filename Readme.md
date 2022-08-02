@@ -17,8 +17,8 @@ I already have a larger Magma package [CHAMP](https://github.com/ulthiel/Champ) 
 
 ```julia
 julia> using Pkg
-julia> Pkg.add("url=https://github.com/jmichel7/Gapjm.jl")
-julia> Pkg.add("https://github.com/ulthiel/CherednikAlgebras.jl")
+julia> Pkg.add(url="https://github.com/jmichel7/Gapjm.jl")
+julia> Pkg.add(url="https://github.com/ulthiel/CherednikAlgebras.jl")
 ```
 
 ## Usage
