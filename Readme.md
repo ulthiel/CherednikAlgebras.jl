@@ -24,6 +24,8 @@ julia> Pkg.add(url="https://github.com/ulthiel/CherednikAlgebras.jl")
 ## Usage
 
 ```julia
+julia> using Gapjm, CherednikAlgebras
+
 julia> W = complex_reflection_group(4)
 G₄
 
